@@ -35,3 +35,10 @@ end as income
 from sales.customers as t1
 left join temp_tables.ibge_genders as t2
 on t2.first_name = t1.first_name
+
+--query 02
+select  prod.brand, prod.model, (date_part('year',fun.visit_page_date)::int - prod.model_year::int) as idade_do_modelo
+from sales.products as prod
+left join sales.funnel as fun
+on fun.product_id = prod.product_id
+
