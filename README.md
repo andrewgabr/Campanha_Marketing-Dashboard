@@ -2,7 +2,7 @@
 
 Este é o dashboard para monitoramento e análise da campanha de marketing, fornecendo insights sobre dados de clientes e produtos. Ele utiliza informações de várias fontes para gerar visualizações que auxiliam nas decisões de marketing.
 
-![Imagem do Dashboard](https://github.com/andrewgabr/Campanha_Marketing-Dashboard/blob/master/imgs/Screenshot%202025-03-30%20212806.png?raw=true)
+![Imagem do Dashboard](https://github.com/andrewgabr/Campanha_Marketing-Dashboard/blob/master/imgs/Screenshot%202025-03-30%20215249.png?raw=true)
 
 ## Funcionalidades
 
