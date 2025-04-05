@@ -12,9 +12,6 @@ Este é o dashboard para monitoramento e análise da campanha de marketing, forn
 
 ## Queries Utilizadas
 
-### Query 01: Análise de Cliente
-
-Esta query agrupa os clientes por faixa etária, status profissional e faixa de renda, considerando a data de nascimento e a renda dos clientes.
 
 ```sql
 --query 01
